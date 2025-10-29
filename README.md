@@ -1,6 +1,6 @@
 # 楽々キー (rakuraku-kii)
 
-**快適性と実用性を両立した左右分離型向けキー配列。**  
+**快適性と実用性を両立した左右分離型向けキー配列**  
 _Comfort-driven, practical layout for split ergonomic keyboards._
 
 ---
