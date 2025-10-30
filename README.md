@@ -37,6 +37,8 @@ layer-taps** for speed, reduced strain, and low travel.
 
 ---
 
+## Keymap visualization
+
 ![All layers](./images/layer_all.svg)
 
 ---
