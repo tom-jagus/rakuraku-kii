@@ -37,6 +37,10 @@ layer-taps** for speed, reduced strain, and low travel.
 
 ---
 
+![All layers](./images/layer_all.svga)
+
+---
+
 ## Acknowledgments
 
 - **Miryoku** for ergonomic & layering principles.
