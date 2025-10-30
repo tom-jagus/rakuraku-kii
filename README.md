@@ -37,7 +37,7 @@ layer-taps** for speed, reduced strain, and low travel.
 
 ---
 
-![All layers](./images/layer_all.svga)
+![All layers](./images/layer_all.svg)
 
 ---
 
