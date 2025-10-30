@@ -3,6 +3,8 @@
 **快適性と実用性を両立した左右分離型向けキー配列**  
 _Comfort-driven, practical layout for split ergonomic keyboards._
 
+![楽々キー](./images/logotype.svg)
+
 ---
 
 ## Overview
