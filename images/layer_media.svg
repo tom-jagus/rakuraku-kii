@@ -127,6 +127,10 @@ path.combo {
 
 }</style>
 
+<g transform="translate(30,0)">
+<text x="0" y="28" class="label">楽々キー (rakuraku-kii)</text>
+</g>
+<g transform="translate(0,50)">
 <g transform="translate(30, 0)" class="layer-MEDIA">
 <text x="0" y="28" class="label" id="MEDIA">MEDIA:</text>
 <g transform="translate(0, 56)">
@@ -293,6 +297,7 @@ path.combo {
 </g>
 <g transform="translate(616, 205)" class="key keypos-45">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+</g>
 </g>
 </g>
 </g>
