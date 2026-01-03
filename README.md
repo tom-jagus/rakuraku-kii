@@ -13,7 +13,7 @@ _Comfort-driven, practical layout for split ergonomic keyboards._
 It follows a **Colemak-DH** base layer with **Home-Row Mods** and **thumb
 layer-taps** for speed, reduced strain, and low travel.
 
-- **Target board:** Corne / crkbd (3×6 + 3 thumbs per side).
+- **Target board:** Any split ergonomic keyboard with minimum layout of 3×5 + 3 thumbs per side (36 keys total).
 - **Configurator:** Vial (real-time QMK keymapping; cross-platform).
 - **Base layout:** Colemak-DH (ergonomic Colemak variant).
 - **Technique:** Home-Row Mods (“mod-taps” on ARST / NEIO).
