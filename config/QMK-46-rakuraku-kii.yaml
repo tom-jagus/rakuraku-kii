@@ -4,19 +4,19 @@ layout:
 layers:
   DEF:
     - [
-        { "s": "~", "t": "`" },
+        null,
         Q,
         W,
         F,
         P,
-        B,
+        null,
         null,
         null,
         J,
         L,
         U,
-        Y,
-        { "s": ":", "t": ";" },
+        null,
+        { "s": '"', "t": "'" },
         null,
       ]
     - [
@@ -25,7 +25,7 @@ layers:
         { "t": "R", "h": "ALT" },
         { "t": "S", "h": "CTRL" },
         { "t": "T", "h": "SHIFT" },
-        G,
+        null,
         null,
         null,
         M,
@@ -33,7 +33,7 @@ layers:
         { "t": "E", "h": "CTRL" },
         { "t": "I", "h": "ALT" },
         { "t": "O", "h": "SUPER" },
-        { "s": '"', "t": "'" },
+        null,
       ]
     - [
         null,
@@ -41,13 +41,13 @@ layers:
         X,
         C,
         D,
-        V,
-        K,
+        null,
+        null,
         H,
         { "s": "<", "t": "," },
         { "s": ">", "t": "." },
         { "s": "?", "t": "/" },
-        { "s": "|", t: "\\" },
+        null,
       ]
     - { "t": "Esc", "h": "NAV" }
     - { "t": "Tab", "h": "NUM" }
@@ -70,9 +70,24 @@ layers:
         "Copy",
         "Cut",
         "Redo",
-        "Select all",
+        null,
       ]
-    - [null, SUPER, ALT, CTRL, SHIFT, null, null, null, H, J, K, L, Home, End]
+    - [
+        null,
+        SUPER,
+        ALT,
+        CTRL,
+        SHIFT,
+        "Select All",
+        null,
+        null,
+        H,
+        J,
+        K,
+        L,
+        "Page Up",
+        null,
+      ]
     - [
         null,
         null,
@@ -84,21 +99,21 @@ layers:
         Down,
         Up,
         Right,
-        Page Down,
-        Page Up,
+        "Page Down",
+        null,
       ]
-    - "▽"
+    - { type: held }
     - null
     - null
     - "Print\nScreen"
-    - null
-    - null
+    - "Home"
+    - "End"
   NUM:
     - [null, null, null, null, null, null, null, null, "(", 7, 8, 9, ")", null]
     - [null, SUPER, ALT, CTRL, SHIFT, FUN, null, null, "+", 4, 5, 6, "*", null]
     - [null, null, null, null, null, null, "-", 1, 2, 3, "/", null]
     - null
-    - "▽"
+    - { type: held }
     - null
     - "."
     - 0
@@ -106,10 +121,10 @@ layers:
   FUN:
     - [
         null,
-        LSUPER,
-        LALT,
-        LCTRL,
-        LSHIFT,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null,
@@ -126,7 +141,7 @@ layers:
         null,
         null,
         null,
-        "▽",
+        { type: held },
         null,
         null,
         F11,
@@ -139,7 +154,7 @@ layers:
     - [null, null, null, null, null, null, F10, F1, F2, F3, null, null]
     - null
     - null
-    - "▽"
+    - { type: held }
     - null
     - null
     - null
@@ -162,10 +177,10 @@ layers:
       ]
     - [
         null,
-        null,
-        null,
-        null,
-        null,
+        "Super",
+        "Alt",
+        "Ctrl",
+        "Shift",
         null,
         null,
         null,
@@ -173,16 +188,29 @@ layers:
         "$",
         "%",
         "^",
-        "}",
+        { "s": ":", "t": ";" },
         null,
       ]
-    - [null, null, null, null, null, null, "-", "!", "@", "#", "=", null]
-    - "▽"
-    - "▽"
-    - "▽"
+    - [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "-",
+        "!",
+        "@",
+        "#",
+        { "s": "~", "t": "`" },
+        null,
+      ]
+    - null
+    - null
+    - { type: held }
     - "_"
     - ")"
-    - null
+    - { "s": "|", "t": "\\" }
   MOUSE:
     - [
         null,
@@ -209,18 +237,18 @@ layers:
         "Mouse\nWheel\nDown",
         null,
         null,
-        null,
         SHIFT,
         CTRL,
         ALT,
         SUPER,
+        null,
         null,
       ]
     - [null, null, null, null, null, null, null, null, null, null, null, null]
     - "Mouse\n3"
     - "Mouse\n2"
     - "Mouse\n1"
-    - "▽"
+    - { type: held }
     - null
     - null
   MEDIA:
@@ -259,7 +287,7 @@ layers:
     - [null, null, null, null, null, null, null, null, null, null, null, null]
     - "Media\nStop"
     - "Media\nPlay"
-    - Mute
-    - -1
-    - "▽"
+    - "Mute"
+    - null
+    - { type: held }
     - null
