@@ -270,13 +270,13 @@ path.combo {
 <rect rx="6" ry="6" x="-34" y="-34" width="67" height="67" class="key side"/>
 <rect rx="4" ry="4" x="-28" y="-32" width="55" height="55" class="key"/>
 </g>
-<g transform="translate(291, 270) rotate(15.0)" class="key keypos-31">
-<rect rx="6" ry="6" x="-34" y="-34" width="67" height="67" class="key side"/>
-<rect rx="4" ry="4" x="-28" y="-32" width="55" height="55" class="key"/>
+<g transform="translate(291, 270) rotate(15.0)" class="key held keypos-31">
+<rect rx="6" ry="6" x="-34" y="-34" width="67" height="67" class="key held side"/>
+<rect rx="4" ry="4" x="-28" y="-32" width="55" height="55" class="key held"/>
 </g>
-<g transform="translate(374, 284) rotate(30.0)" class="key held keypos-32">
-<rect rx="6" ry="6" x="-34" y="-51" width="67" height="102" class="key held side"/>
-<rect rx="4" ry="4" x="-28" y="-49" width="55" height="90" class="key held"/>
+<g transform="translate(374, 284) rotate(30.0)" class="key keypos-32">
+<rect rx="6" ry="6" x="-34" y="-51" width="67" height="102" class="key side"/>
+<rect rx="4" ry="4" x="-28" y="-49" width="55" height="90" class="key"/>
 </g>
 <g transform="translate(549, 284) rotate(-30.0)" class="key keypos-33">
 <rect rx="6" ry="6" x="-34" y="-51" width="67" height="102" class="key side"/>
