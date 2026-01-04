@@ -17,10 +17,11 @@ layer-taps** for speed, reduced strain, and low travel.
 - **Configurator:** Vial (real-time QMK keymapping; cross-platform).
 - **Base layout:** Colemak-DH (ergonomic Colemak variant).
 - **Technique:** Home-Row Mods (“mod-taps” on ARST / NEIO).
-- **Mechanics:** Layer-tap (LT) keys on thumbs; Navigation/Numeric/Symbols/
+- **Mechanics:** Thumb layer-taps (tap for key, hold for layer); Navigation/Numeric/Symbols/
   Function/Media/Mouse layers.
 
-> **Inspiration:** Miryoku’s ergonomic principles and layering philosophy.
+> **Inspiration:** Miryoku’s ergonomic principles and layering philosophy.  
+> **Rationale:** See **[`docs/rationale.md`](docs/rationale.md)** for detailed decisions.
 
 ---
 
