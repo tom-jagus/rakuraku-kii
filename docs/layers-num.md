@@ -14,13 +14,15 @@ Hold right thumb (Tab key position) to activate.
 - **Extras**: Access to FUN layer (F-keys).
 
 ## Rationale
-- **Numpad Familiarity**: Layout mirrors physical numpads for ease.
-- **Quick Math**: Operators enable fast calculations (e.g., 1+2*3) without switching layers.
-- **FUN Integration**: Numbers link to F1-F12 for consistency.
+- **Numpad Familiarity**: Layout mirrors physical numpads (1-9 grid, 0 centered) for intuitive access.
+- **Operator Grouping**: Math symbols (+ - * /) and parentheses grouped for sequential calculations.
+- **Quick Math**: Enables fast operations (e.g., 1+2*3) without layer hopping, ideal for quick computations.
+- **Thumb Placement**: 0 on thumb leverages natural press for common digit.
+- **FUN Integration**: Numbers align with F1-F12, creating consistent mappings.
 
-## Usage Tips
-- Hold thumb, then tap numbers/operators for input.
-- Use . for decimals, , for commas in numbers.
-- Switch to FUN via inner thumb for F-keys.
+## Usage
+- Hold thumb, tap numbers in numpad order (e.g., 7 8 9 for top row).
+- Input operators for math (e.g., 5 * 3 for multiplication).
+- Use . for decimals, , for separators; access FUN for F-keys.
 - See [`docs/rationale.md`](rationale.md) for full design details.</content>
 <parameter name="filePath">docs/layers-num.md

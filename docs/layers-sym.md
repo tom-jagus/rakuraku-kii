@@ -14,13 +14,15 @@ Hold right thumb (Enter key position) to activate.
 - **Mods**: Super, Alt, Ctrl, Shift on left for combos.
 
 ## Rationale
-- **NUM Consistency**: Symbols align with numbers (e.g., ! @ # where 1 2 3) for muscle memory.
-- **Centralized Access**: Groups common symbols to reduce layer switches.
-- **Hand Balance**: Mods on left, symbols on right.
+- **NUM Consistency**: Symbols mirror numbers (e.g., ! @ # where 1 2 3) for muscle memory and reduced learning curve.
+- **Symbol Frequency**: Groups high-use chars ([ ] { } : ;) centrally to minimize switches.
+- **Centralized Access**: Majority of symbols on one layer for focused, predictable access.
+- **Bracket Pairing**: Related pairs (e.g., ( ), [ ], { }) placed logically for coding.
+- **Hand Balance**: Mods on left enable combos, symbols on right for primary input.
 
-## Usage Tips
-- Hold thumb, tap for symbols (e.g., { } for code blocks).
-- Use left mods + symbols for shortcuts.
-- For Python, _ on thumb for snake_case.
+## Usage
+- Hold thumb, tap symbols in alignment (e.g., @ where 2 is).
+- Access brackets for coding (e.g., [ ] for arrays).
+- Use mods for shortcuts (e.g., Ctrl + { for code folding).
 - See [`docs/rationale.md`](rationale.md) for full design details.</content>
 <parameter name="filePath">docs/layers-sym.md

@@ -14,12 +14,15 @@ This is the default layer—always active unless another layer is held.
 - **Thumbs**: Esc, Tab, Enter, Space, Backspace, Delete for frequent actions.
 
 ## Rationale
-- **Colemak-DH**: Optimizes for common letter combinations with minimal movement.
+- **Colemak-DH**: Optimizes for common letter combinations with minimal movement, prioritizing home-row access for vowels (A O) and consonants (R S T N E I) to reduce strain.
+- **Letter Frequency**: Balances load across fingers, avoiding QWERTY's awkward stretches (e.g., TH/HE combos on home row).
 - **Base Focus**: Keeps letters uninterrupted; essentials on thumbs for quick access without layer switches.
-- **Ergonomics**: Reduces strain by placing punctuation near home row.
+- **Ergonomics**: Reduces strain by placing frequent punctuation (comma, dot, quotes) near home row for natural typing flow.
+- **Thumb Utilization**: Repetitive actions (Space, Enter, Esc, Backspace) on thumbs leverage natural reach.
 
-## Usage Tips
-- Type letters directly; use thumbs for spacing/entering.
-- For punctuation, tap base keys or switch to SYM for more options.
+## Usage
+- Type letters directly in Colemak-DH layout (e.g., "the" as F H E).
+- Use thumbs for spacing/entering (e.g., tap Space after words).
+- Access punctuation on base for common use (e.g., comma in lists, dot in sentences).
 - See [`docs/rationale.md`](rationale.md) for full design details.</content>
 <parameter name="filePath">docs/layers-def.md

@@ -15,13 +15,16 @@ Hold left thumb (Esc key position) to activate.
 - **Extras**: Print Screen.
 
 ## Rationale
-- **Vim-Style Navigation**: HJKL placement for muscle memory in editors/IDEs.
-- **Hand Balance**: Layer access on left, actions on right to avoid stretches.
-- **Practical Shortcuts**: Everyday editing combos accessible without modifiers.
+- **Vim-Style Navigation**: HJKL placement mirrors vim for muscle memory in editors/IDEs, enabling fast cursor movement.
+- **Arrow Placement**: Full arrows with Page/Home/End for extended navigation, grouped for logical access.
+- **Hand Balance**: Layer access on left, actions on right to avoid cross-body stretches and maintain flow.
+- **Shortcut Frequency**: Common editing combos (Undo, Copy, Paste) placed for quick access without modifier gymnastics.
+- **Ergonomic Efficiency**: Reduces mouse reliance, promoting keyboard-centric workflows.
 
-## Usage Tips
-- Hold thumb, then tap H/J/K/L for quick movement; use arrows for precision.
-- For editing, tap combos directly (e.g., Ctrl+Z for undo).
+## Usage
+- Hold thumb, tap H/J/K/L for vim-like movement (e.g., J for down in text).
+- Use arrows for precision (e.g., Right for character navigation).
+- Access editing shortcuts directly (e.g., Ctrl+Z for undo, Ctrl+C for copy).
 - Combine with HRMs for advanced navigation.
 - See [`docs/rationale.md`](rationale.md) for full design details.</content>
 <parameter name="filePath">docs/layers-nav.md
