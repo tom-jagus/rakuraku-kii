@@ -24,5 +24,10 @@ Hold right thumb (Tab key position) to activate.
 - Hold thumb, tap numbers in numpad order (e.g., 7 8 9 for top row).
 - Input operators for math (e.g., 5 * 3 for multiplication).
 - Use . for decimals, , for separators; access FUN for F-keys.
-- See [`docs/rationale.md`](rationale.md) for full design details.</content>
+- See [`docs/rationale.md`](rationale.md) for full design details.
+
+## Related Layers
+- [`DEF`](layers-def.md) - Base layer
+- [`FUN`](layers-fun.md) - Function keys (F1-F12, accessible from NUM)
+- [`SYM`](layers-sym.md) - Symbols (complements numbers)</content>
 <parameter name="filePath">docs/layers-num.md

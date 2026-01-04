@@ -24,5 +24,9 @@ Hold right thumb (Enter key position) to activate.
 - Hold thumb, tap symbols in alignment (e.g., @ where 2 is).
 - Access brackets for coding (e.g., [ ] for arrays).
 - Use mods for shortcuts (e.g., Ctrl + { for code folding).
-- See [`docs/rationale.md`](rationale.md) for full design details.</content>
+- See [`docs/rationale.md`](rationale.md) for full design details.
+
+## Related Layers
+- [`DEF`](layers-def.md) - Base layer
+- [`NUM`](layers-num.md) - Numbers (mirrors symbol positions)</content>
 <parameter name="filePath">docs/layers-sym.md

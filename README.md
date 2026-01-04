@@ -5,6 +5,15 @@ _Comfort-driven, practical layout for split ergonomic keyboards._
 
 ![楽々キー](./images/logotype.svg)
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Design Choices](#design-choices)
+- [Keymap Visualization](#keymap-visualization)
+- [Documentation](#documentation)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+
 ---
 
 ## Overview
@@ -37,13 +46,25 @@ layer-taps** for speed, reduced strain, and low travel.
 - **Practical, predictable placements:** everyday shortcuts and symbols where the
   hands already are.
 
-<!-- > Full details: see **[`docs/layers.md`](docs/layers.md)** and **[`docs/usage-vial.md`](docs/usage-vial.md)**. -->
-
 ---
 
 ## Keymap visualization
 
 ![All layers](./images/layer_all.svg)
+
+## Documentation
+
+Detailed documentation for each layer is available in the [`docs/`](docs/) directory:
+
+- [`docs/layers-def.md`](docs/layers-def.md) - Base typing layer (Colemak-DH)
+- [`docs/layers-nav.md`](docs/layers-nav.md) - Navigation and editing
+- [`docs/layers-num.md`](docs/layers-num.md) - Numbers and math operations
+- [`docs/layers-fun.md`](docs/layers-fun.md) - Function keys (F1-F12)
+- [`docs/layers-sym.md`](docs/layers-sym.md) - Symbols and special characters
+- [`docs/layers-mouse.md`](docs/layers-mouse.md) - Keyboard mouse control
+- [`docs/layers-media.md`](docs/layers-media.md) - Media and brightness controls
+
+See [`docs/rationale.md`](docs/rationale.md) for the complete design rationale and ergonomic principles.
 
 ---
 

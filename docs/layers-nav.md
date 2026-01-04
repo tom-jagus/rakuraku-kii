@@ -26,5 +26,10 @@ Hold left thumb (Esc key position) to activate.
 - Use arrows for precision (e.g., Right for character navigation).
 - Access editing shortcuts directly (e.g., Ctrl+Z for undo, Ctrl+C for copy).
 - Combine with HRMs for advanced navigation.
-- See [`docs/rationale.md`](rationale.md) for full design details.</content>
+- See [`docs/rationale.md`](rationale.md) for full design details.
+
+## Related Layers
+- [`DEF`](layers-def.md) - Base layer with home-row mods (use with navigation keys)
+- [`NUM`](layers-num.md) - Numbers (frequently used alongside navigation)
+- [`FUN`](layers-fun.md) - Function keys (F1-F12)</content>
 <parameter name="filePath">docs/layers-nav.md

@@ -4,7 +4,7 @@
 The DEF layer is the primary typing layer for everyday text input. It implements Colemak-DH, an ergonomic layout that reduces finger travel and strain compared to QWERTY.
 
 ## Access
-This is the default layer—always active unless another layer is held.
+This is the default (base) layer. It is always active unless another layer is held via a thumb key.
 
 ## Key Map
 ![DEF layer](../images/layer_def.svg)
@@ -24,5 +24,13 @@ This is the default layer—always active unless another layer is held.
 - Type letters directly in Colemak-DH layout (e.g., "the" as F H E).
 - Use thumbs for spacing/entering (e.g., tap Space after words).
 - Access punctuation on base for common use (e.g., comma in lists, dot in sentences).
-- See [`docs/rationale.md`](rationale.md) for full design details.</content>
+- See [`docs/rationale.md`](rationale.md) for full design details.
+
+## Related Layers
+- [`NAV`](layers-nav.md) - Navigation and editing (access via left thumb: Esc)
+- [`NUM`](layers-num.md) - Numbers and math (access via right thumb: Tab)
+- [`SYM`](layers-sym.md) - Symbols (access via right thumb: Enter)
+- [`FUN`](layers-fun.md) - Function keys (access via right thumb: hold Tab + FUN)
+- [`MOUSE`](layers-mouse.md) - Mouse control (access via left thumb: Space)
+- [`MEDIA`](layers-media.md) - Media controls (access via left thumb: Bksp)</content>
 <parameter name="filePath">docs/layers-def.md
